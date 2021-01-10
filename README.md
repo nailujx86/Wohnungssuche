@@ -1,2 +1,2 @@
-# P1_DP11
+# Wohnungssuche
 An assignment for the lecture Artificial Intelligence
